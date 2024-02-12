@@ -1,0 +1,177 @@
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943\bin\Debug\net7.0-windows\Desktop_01_EG_2020_3943.exe
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943\bin\Debug\net7.0-windows\Desktop_01_EG_2020_3943.deps.json
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943\bin\Debug\net7.0-windows\Desktop_01_EG_2020_3943.runtimeconfig.json
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943\bin\Debug\net7.0-windows\Desktop_01_EG_2020_3943.dll
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943\bin\Debug\net7.0-windows\Desktop_01_EG_2020_3943.pdb
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943_MarkupCompile.cache
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943_MarkupCompile.lref
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.g.resources
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.csproj.CopyComplete
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.dll
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943\obj\Debug\net7.0-windows\refint\Desktop_01_EG_2020_3943.dll
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.pdb
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.genruntimeconfig.cache
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943\obj\Debug\net7.0-windows\ref\Desktop_01_EG_2020_3943.dll
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943\obj\Debug\net7.0-windows\App.baml
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943\obj\Debug\net7.0-windows\AddStudentWindow.g.cs
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943\obj\Debug\net7.0-windows\AddStudentWindow.baml
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy\bin\Debug\net7.0-windows\Desktop_01_EG_2020_3943.exe
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy\bin\Debug\net7.0-windows\Desktop_01_EG_2020_3943.deps.json
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy\bin\Debug\net7.0-windows\Desktop_01_EG_2020_3943.runtimeconfig.json
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy\bin\Debug\net7.0-windows\Desktop_01_EG_2020_3943.dll
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy\bin\Debug\net7.0-windows\Desktop_01_EG_2020_3943.pdb
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy\obj\Debug\net7.0-windows\AddStudentWindow.g.cs
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943_MarkupCompile.cache
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943_MarkupCompile.lref
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy\obj\Debug\net7.0-windows\App.baml
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy\obj\Debug\net7.0-windows\AddStudentWindow.baml
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.g.resources
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.csproj.CopyComplete
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.dll
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy\obj\Debug\net7.0-windows\refint\Desktop_01_EG_2020_3943.dll
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.pdb
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.genruntimeconfig.cache
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy\obj\Debug\net7.0-windows\ref\Desktop_01_EG_2020_3943.dll
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy\bin\Debug\net7.0-windows\MaterialDesign.Icons.dll
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\bin\Debug\net7.0-windows\Desktop_01_EG_2020_3943.exe
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\bin\Debug\net7.0-windows\Desktop_01_EG_2020_3943.deps.json
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\bin\Debug\net7.0-windows\Desktop_01_EG_2020_3943.runtimeconfig.json
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\bin\Debug\net7.0-windows\Desktop_01_EG_2020_3943.dll
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\bin\Debug\net7.0-windows\Desktop_01_EG_2020_3943.pdb
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\bin\Debug\net7.0-windows\MaterialDesign.Icons.dll
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\AddStudentWindow.g.cs
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943_MarkupCompile.cache
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943_MarkupCompile.lref
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\App.baml
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\AddStudentWindow.baml
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.g.resources
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.csproj.CopyComplete
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.dll
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\refint\Desktop_01_EG_2020_3943.dll
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.pdb
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.genruntimeconfig.cache
+C:\Users\Acer\Desktop\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\ref\Desktop_01_EG_2020_3943.dll
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\bin\Debug\net7.0-windows\Desktop_01_EG_2020_3943.exe
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\bin\Debug\net7.0-windows\Desktop_01_EG_2020_3943.deps.json
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\bin\Debug\net7.0-windows\Desktop_01_EG_2020_3943.runtimeconfig.json
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\bin\Debug\net7.0-windows\Desktop_01_EG_2020_3943.dll
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\bin\Debug\net7.0-windows\Desktop_01_EG_2020_3943.pdb
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\bin\Debug\net7.0-windows\MaterialDesign.Icons.dll
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\AddStudentWindow.g.cs
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943_MarkupCompile.cache
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943_MarkupCompile.lref
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\App.baml
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\AddStudentWindow.baml
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.g.resources
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.AssemblyInfoInputs.cache
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.AssemblyInfo.cs
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.csproj.CopyComplete
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.dll
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\refint\Desktop_01_EG_2020_3943.dll
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.pdb
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.genruntimeconfig.cache
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\ref\Desktop_01_EG_2020_3943.dll
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Desktop_01_EG_2020_3943 - Copy - Copy\bin\Debug\net7.0-windows\Desktop_01_EG_2020_3943.exe
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Desktop_01_EG_2020_3943 - Copy - Copy\bin\Debug\net7.0-windows\Desktop_01_EG_2020_3943.deps.json
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Desktop_01_EG_2020_3943 - Copy - Copy\bin\Debug\net7.0-windows\Desktop_01_EG_2020_3943.runtimeconfig.json
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Desktop_01_EG_2020_3943 - Copy - Copy\bin\Debug\net7.0-windows\Desktop_01_EG_2020_3943.dll
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Desktop_01_EG_2020_3943 - Copy - Copy\bin\Debug\net7.0-windows\Desktop_01_EG_2020_3943.pdb
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Desktop_01_EG_2020_3943 - Copy - Copy\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Desktop_01_EG_2020_3943 - Copy - Copy\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Desktop_01_EG_2020_3943 - Copy - Copy\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Desktop_01_EG_2020_3943 - Copy - Copy\bin\Debug\net7.0-windows\MaterialDesign.Icons.dll
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\AddStudentWindow.g.cs
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943_MarkupCompile.cache
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943_MarkupCompile.lref
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\App.baml
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\AddStudentWindow.baml
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.g.resources
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.AssemblyInfoInputs.cache
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.AssemblyInfo.cs
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.csproj.CopyComplete
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.dll
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\refint\Desktop_01_EG_2020_3943.dll
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.pdb
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.genruntimeconfig.cache
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Desktop_01_EG_2020_3943 - Copy - Copy\obj\Debug\net7.0-windows\ref\Desktop_01_EG_2020_3943.dll
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Student Management System\bin\Debug\net7.0-windows\Desktop_01_EG_2020_3943.exe
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Student Management System\bin\Debug\net7.0-windows\Desktop_01_EG_2020_3943.deps.json
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Student Management System\bin\Debug\net7.0-windows\Desktop_01_EG_2020_3943.runtimeconfig.json
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Student Management System\bin\Debug\net7.0-windows\Desktop_01_EG_2020_3943.dll
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Student Management System\bin\Debug\net7.0-windows\Desktop_01_EG_2020_3943.pdb
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Student Management System\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Student Management System\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Student Management System\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Student Management System\bin\Debug\net7.0-windows\MaterialDesign.Icons.dll
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Student Management System\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Student Management System\obj\Debug\net7.0-windows\AddStudentWindow.g.cs
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Student Management System\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Student Management System\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Student Management System\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Student Management System\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943_MarkupCompile.cache
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Student Management System\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943_MarkupCompile.lref
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Student Management System\obj\Debug\net7.0-windows\App.baml
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Student Management System\obj\Debug\net7.0-windows\AddStudentWindow.baml
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Student Management System\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Student Management System\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.g.resources
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Student Management System\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Student Management System\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.AssemblyInfoInputs.cache
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Student Management System\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.AssemblyInfo.cs
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Student Management System\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Student Management System\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.csproj.CopyComplete
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Student Management System\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.dll
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Student Management System\obj\Debug\net7.0-windows\refint\Desktop_01_EG_2020_3943.dll
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Student Management System\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.pdb
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Student Management System\obj\Debug\net7.0-windows\Desktop_01_EG_2020_3943.genruntimeconfig.cache
+C:\Users\Acer\Documents\Eng Ruh\2nd year\Semester 3\GUI Programming\For project\Projects\Student Management System\obj\Debug\net7.0-windows\ref\Desktop_01_EG_2020_3943.dll

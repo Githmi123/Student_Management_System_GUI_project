@@ -1,0 +1,166 @@
+﻿<Window x:Class="Desktop_01_EG_2020_3943.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    
+        xmlns:local="clr-namespace:Desktop_01_EG_2020_3943"
+        mc:Ignorable="d"
+        Title="Main Window" WindowStartupLocation="CenterScreen" Height="750" Width="1000" WindowStyle="None" AllowsTransparency="True" Background="Transparent" MouseDown="Drag">
+    <!--WindowStyle="None"  Background="Transparent"-->
+
+    <Window.DataContext>
+        <local:CollectionWindowVM/>
+
+
+    </Window.DataContext>
+    <Border CornerRadius="20">
+        <Border.Background>
+            <ImageBrush ImageSource="\Icons\study.jpg"
+                        Stretch="UniformToFill"/>
+        </Border.Background>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="7*"/>
+                <RowDefinition Height="179*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="63*"/>
+                <ColumnDefinition Width="96*"/>
+
+            </Grid.ColumnDefinitions>
+
+            <Border Style="{StaticResource Border1}" Grid.RowSpan="2" Grid.ColumnSpan="2" Background="Transparent">
+                <Grid>
+                    <Canvas>
+                        <Rectangle Stroke="WhiteSmoke" Canvas.Left="20" Canvas.Top="73" Width="352" HorizontalAlignment="Center" VerticalAlignment="Top" Height="1">
+                            <Rectangle.RenderTransform>
+                                <TransformGroup>
+                                    <ScaleTransform ScaleY="-1"/>
+                                    <SkewTransform/>
+                                    <RotateTransform/>
+                                    <TranslateTransform/>
+                                </TransformGroup>
+                            </Rectangle.RenderTransform>
+                        </Rectangle>
+                    </Canvas>
+
+                    <StackPanel Orientation="Vertical" Margin="0,24,0,0">
+                        <TextBlock TextWrapping="Wrap" Text="Options" Style="{StaticResource Titles}" Margin="33,10,0,384" Width="120" Height="39"/>
+                        <Button Content="Add Student" Cursor="Hand" Margin="3 -350 3 300" Style="{StaticResource OptionButtons}" Command="{Binding AddCommand}"/>
+                        <Button Content="Edit Student" Cursor="Hand" Margin="3 -295 3 245" Style="{StaticResource OptionButtons}" Command="{Binding EditCommand}"/>
+                        <Button Content="Delete Student" Cursor="Hand" Height="60" Margin="3 -240 3 190" Style="{StaticResource OptionButtons}" Command="{Binding DeleteCommand}"/>
+
+
+
+                    </StackPanel>
+                    <StackPanel Margin="0,326,0,0">
+                        <Image Source="\Icons\b3.png" Height="99" Width="374"/>
+                        <TextBlock Text="Maxwell Student Management System" Foreground="White" FontStyle="Italic" HorizontalAlignment="Center" FontSize="17"/>
+                        <TextBlock Text="Maxwell Higer Educational Institute" FontStyle="Italic" Foreground="Wheat" HorizontalAlignment="Center" FontSize="13"/>
+                        <TextBlock Text="Sri Sugathodaya Mw," FontStyle="Italic" Foreground="Wheat" HorizontalAlignment="Center" FontSize="13"/>
+                        <TextBlock Text="Colombo 02" FontStyle="Italic" Foreground="Wheat" HorizontalAlignment="Center" FontSize="13"/>
+                        <TextBlock Text="Building your Future ..." FontStyle="Italic" Foreground="Wheat" HorizontalAlignment="Center" FontSize="15"/>
+
+
+                    </StackPanel>
+
+
+
+
+
+                </Grid>
+            </Border>
+            <Border Grid.Column="2" Style="{StaticResource Border2}" Background="LightSteelBlue" Grid.RowSpan="2">
+
+                <Grid>
+
+
+                    <StackPanel Margin="31,66,0,630"  HorizontalAlignment="Left" Width="501" Background="Transparent" Orientation="Horizontal" >
+                        <TextBlock Text="First Name"  Style="{StaticResource ListNames}" Width="90"/>
+                        <TextBlock Text="Last Name "  Style="{StaticResource ListNames}" Width="67" />
+                        <TextBlock Text="Date Of Birth" Style="{StaticResource ListNames}" Width="104" Height="133" />
+                        <TextBlock Text="Age" Style="{StaticResource ListNames}" Width="28" />
+
+                        <TextBlock Text="GPA"  Style="{StaticResource ListNames}" Width="52" />
+
+                    </StackPanel>
+                    <StackPanel Margin="0,25,0,0">
+                        <TextBlock TextWrapping="Wrap" Style="{StaticResource Titles}" Text="Students" Margin="30 10" Width="126" Height="37"/>
+
+                    </StackPanel>
+                    <Canvas>
+                        <Rectangle Stroke="WhiteSmoke" RenderTransformOrigin="0.5,0.5" Canvas.Left="26" Canvas.Top="71" Width="504" HorizontalAlignment="Center" VerticalAlignment="Top" Height="1">
+                            <Rectangle.RenderTransform>
+                                <TransformGroup>
+                                    <ScaleTransform ScaleY="1"/>
+                                    <SkewTransform/>
+                                    <RotateTransform/>
+                                    <TranslateTransform/>
+                                </TransformGroup>
+                            </Rectangle.RenderTransform>
+                        </Rectangle>
+                    </Canvas>
+                    <Grid>
+                        <StackPanel>
+                            <ListView Background="Transparent" ItemsSource="{Binding Students, UpdateSourceTrigger=PropertyChanged}" Margin="2 100" SelectedItem="{Binding SelectedStudent, UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource ListView2}" Height="682">
+                                <ListView.ItemTemplate>
+                                    <DataTemplate>
+                                        <Border Style="{StaticResource Border3}" Cursor="Hand" >
+
+                                            <StackPanel Orientation="Horizontal">
+                                                <Image Width="40" Height="40" Source="{Binding Image}"/>
+                                                <!--This stackpanel defines the direction of the elements inside the border.-->
+                                                <!--Image Source="{Binding ImgURL}" Width="40" Height="40"-->
+                                                <!--To insert the image, we must use the Image tag.-->
+
+                                                <TextBlock Text="{Binding FirstName, UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource ListView}" Width="50"/>
+                                                <!--We can put these properties as binding properties, bcoz, we have already declared and defined a the PersonsList list inside an observable object. So, all the properties related to the data elements of this list become binding properties automatically.-->
+                                                <TextBlock Text="{Binding LastName, UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource ListView}" Width="118"/>
+                                                <TextBlock Text="{Binding DateOfBirth, UpdateSourceTrigger=PropertyChanged}" Width="98" Style="{StaticResource ListView}"/>
+
+                                                <TextBlock Text="{Binding Age, UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource ListView}"/>
+
+                                                <TextBlock Text="{Binding GPAValue, UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource ListView}"/>
+                                            </StackPanel>
+
+                                        </Border>
+                                    </DataTemplate>
+                                </ListView.ItemTemplate>
+                            </ListView>
+                        </StackPanel>
+                    </Grid>
+
+                </Grid>
+            </Border>
+            <StackPanel VerticalAlignment="Top" Grid.ColumnSpan="3" Margin="-19,0,-24,0" Grid.RowSpan="2">
+                <Image Source="/Icons/bar.png" Stretch="Fill" Height="31" RenderTransformOrigin="0.5,0.5" Width="1030">
+
+                </Image>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Top" Height="95" Width="976" Grid.RowSpan="2" Grid.Column="1" Margin="0,0,5,0" RenderTransformOrigin="0.5,0.5" Grid.ColumnSpan="2">
+                <StackPanel.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleX="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </StackPanel.RenderTransform>
+                <Button Cursor="Hand" Width="30" Height="15" Style="{StaticResource QuitButton}" Command="{Binding CloseWindowCommand}" Margin="5" BorderBrush="Transparent" >
+                    <Image Source="/Icons/close.png" Stretch="Fill" Width="30" Height="12"/>
+                </Button>
+                <Button Cursor="Hand" Style="{StaticResource MinButton}" Height="15" Width="30" Click="btnMinimize_Click" Margin="5 5 0 5" BorderBrush="Transparent" >
+                    <Image Source="/Icons/min.png" Stretch="Fill" Width="30" Height="11" RenderTransformOrigin="0.5,0.5"/>
+
+                </Button>
+
+
+
+            </StackPanel>
+
+        </Grid>
+
+    </Border>
+</Window>

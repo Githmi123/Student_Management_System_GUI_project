@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GqlMRdDThTkno2A7Rvk4KlhfuiNlhe221CWMgEaeTxtkZpljD5sDSDXqxkQBiovtKW/b4NzZDvH+eZafR0x5/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Documents\\Eng Ruh\\2nd year\\Semester 3\\GUI Programming\\For project\\Projects\\Student Management System\\Desktop_01_EG_2020_3943.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.0-preview1\\communitytoolkit.mvvm.8.2.0-preview1.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\mahapps.metro.iconpacks.simpleicons\\4.11.0\\mahapps.metro.iconpacks.simpleicons.4.11.0.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\materialdesign.icons\\1.1.0\\materialdesign.icons.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
